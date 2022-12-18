@@ -1,4 +1,4 @@
-<img src="https://davidwindham.com/img/card.png" align="right" width="100">
+<img src="https://davidwindham.com/img/card.png" align="right" width="200">
 
 #### Hello good people &amp; bots of Github :octocat:
 
